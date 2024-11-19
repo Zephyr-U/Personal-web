@@ -11,13 +11,54 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical and Electronics Engineering, University of Macau, China	08. 2019 ¡V 05. 2023
-* B.Sc in Electrical and Electronics Engineering, University of Macau, China	08. 2015 ¡V 06. 2019
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014
+* B.S. in GitHub, GitHub University, 2012
 
-Professional Experience
+Work experience
 ======
-* Postdoctoral Fellow (Visiting)	01. 2025 ¡V 07. 2026 (excepted)
-  * UC Berkeley, USA (Supervisor: Prof. Jun-Chau Chien)
+* Spring 2024: Academic Pages Collaborator
+  * Github University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
 
-* UM Macau Fellow (Postdoctoral Fellow)		08. 2023 ¡V 07. 2026
-  * University of Macau, China (Supervisor: Prof. Chi-Seng Lam & Prof. Man-Kay Law)
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+  
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams

@@ -13,30 +13,25 @@ redirect_from:
 Education
 ======
 * Ph.D in Electrical and Electronics Engineering, University of Macau, China	08. 2019 - 05. 2023
-* B.Sc in Electrical and Electronics Engineering, University of Macau, China	08. 2015 - 06. 2019
+* M.S. in Jekyll, GitHub University, 2014
+* B.S. in GitHub, GitHub University, 2012
 
-Professional Experience
+Work experience
 ======
-* Postdoctoral Fellow (Visiting)	01. 2025 - 07. 2026 (excepted)
-  * UC Berkeley, USA (Supervisor: Prof. Jun-Chau Chien)
+* Spring 2024: Academic Pages Collaborator
+  * Github University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
 
-* UM Macau Fellow (Postdoctoral Fellow)		08. 2023 - 07. 2026
-  * University of Macau, China (Supervisor: Prof. Chi-Seng Lam & Prof. Man-Kay Law)
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
 
-
-Teaching Experience
-======
-* Teaching Assistant	08. 2020 - 06. 2023
-* Moon Chun Memorial College, University of Macau, China
-	*RESIDENTIAL COLLEGE EXPERIENTIAL LEARNING
-* Resident Tutors	08. 2020 - 06. 2023
-  * Moon Chun Memorial College, University of Macau, China
-* Teaching Assistant	08. 2020 - 06. 2023
-  * Department of Electrical and Computer Engineering, University of Macau, China
-	*INFORMATION TECHNOLOGY REVOLUTION AND ELECTRONICS
-	*FLEXIBLE ALTERNATIVE CURRENT TRANSMISSION SYSTEM 
-	*PHYSIC I 
-	*GRADUATION PROJECT I
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
   
 Skills
 ======

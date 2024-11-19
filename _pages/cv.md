@@ -18,7 +18,7 @@ Education
 Professional Experience
 ======
 * Postdoctoral Fellow (Visiting)	01. 2025 - 07. 2026 (excepted)
-  * UC Berkeley, USA (Supervisor: Prof. Jun-Chau Chien)
+  *(**UC Berkeley, USA**) (Supervisor: Prof. Jun-Chau Chien)
 
 * UM Macau Fellow (Postdoctoral Fellow)		08. 2023 - 07. 2026
   * University of Macau, China (Supervisor: Prof. Chi-Seng Lam & Prof. Man-Kay Law)

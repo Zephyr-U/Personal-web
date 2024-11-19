@@ -24,16 +24,9 @@ Professional Experience
 
 Teaching Experience
 ======
-* Teaching Assistant	08. 2020 - 06. 2023
-* *Moon Chun Memorial College, University of Macau*
-	*RESIDENTIAL COLLEGE EXPERIENTIAL LEARNING
-
 * Resident Tutors	08. 2020 - 06. 2023
   * *Moon Chun Memorial College, University of Macau*
 
-* Teaching Assistant	08. 2020 - 06. 2023
+* Teaching Assistant 	08. 2020 - 06. 2023
+  * *Moon Chun Memorial College, University of Macau*
   * *Department of Electrical and Computer Engineering, University of Macau*
-	*INFORMATION TECHNOLOGY REVOLUTION AND ELECTRONICS
-	*FLEXIBLE ALTERNATIVE CURRENT TRANSMISSION SYSTEM 
-	*PHYSIC I 
-	*GRADUATION PROJECT I

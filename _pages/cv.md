@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Biography"
+title: "Curriculum Vitae"
 permalink: /resume/
 author_profile: true
 redirect_from:
@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* *Ph.D* in Electrical and Electronics Engineering, *University of Macau, China*	08. 2019 - 05. 2023
+* *Ph.D* in Electrical and Electronics Engineering, *UM, China*	08. 2019 - 05. 2023
 * *B.Sc* in Electrical and Electronics Engineering, *University of Macau, China*	08. 2015 - 06. 2019
 
+*[UM]: University of Macau
 Professional Experience
 ======
 * Postdoctoral Fellow (Visiting)	01. 2025 - 07. 2026 (excepted)

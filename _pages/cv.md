@@ -16,7 +16,23 @@ Education
 
 Professional Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Postdoctoral Fellow (Visiting)	01. 2025 ¡V 07. 2026 (excepted)
+  * UC Berkeley, USA (Supervisor: Prof. Jun-Chau Chien)
+
+* UM Macau Fellow (Postdoctoral Fellow)		08. 2023 ¡V 07. 2026
+  * University of Macau, China (Supervisor: Prof. Chi-Seng Lam & Prof. Man-Kay Law)
+
+
+Teaching Experience
+======
+* Teaching Assistant	08. 2020 ¡V 06. 2023
+* Moon Chun Memorial College, University of Macau, China
+	*RESIDENTIAL COLLEGE EXPERIENTIAL LEARNING
+* Resident Tutors	08. 2020 ¡V 06. 2023
+  * Moon Chun Memorial College, University of Macau, China
+* Teaching Assistant	08. 2020 ¡V 06. 2023
+  * Department of Electrical and Computer Engineering, University of Macau, China
+	*INFORMATION TECHNOLOGY REVOLUTION AND ELECTRONICS
+	*FLEXIBLE ALTERNATIVE CURRENT TRANSMISSION SYSTEM 
+	*PHYSIC I 
+	*GRADUATION PROJECT I

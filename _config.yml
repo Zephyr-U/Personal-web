@@ -12,7 +12,7 @@ title                    : "Chi-Wa U (Zephyr)"
 title_separator          : "-"
 name                     : &name "Chi-Wa U"
 description              : &description "The perosnal web page for Chi-Wa U from University of Macau"
-url                      : https://www.chiwau.com/index # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://www.chiwau.com/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Personal-web/Zephyr-U.github.io"
 

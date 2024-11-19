@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical and Electronics Engineering, University of Macau, China	08 2019 ¡V 05 2023
+* Ph.D in Electrical and Electronics Engineering, University of Macau, China	08 2019 - 05 2023
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 

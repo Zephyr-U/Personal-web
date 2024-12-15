@@ -30,3 +30,10 @@ Teaching Experience
 * Teaching Assistant 	08. 2020 - 06. 2023
   * *Moon Chun Memorial College, University of Macau*
   * *Department of Electrical and Computer Engineering, University of Macau*
+
+Scientific Publication
+======
+Patent
+  [P1] **Chi-Wa U**, Chon-Fai Lee, Cheng-Hou Cheong, Chi-Seng Lam, Man-Kay Law, Rui P. Martins, "A Switched Capacitor Network Bandgap Voltage Reference Circuit and Its Temperature Compensation Method" Chinese Patent for Invention, Application, No. 202410457322.2, 16 Apr. 2024.
+  [P2] **Chi-Wa U**, Chon-Fai Lee, Man-Kay Law, Chi-Seng Lam, Rui P. Martins, “Calibration Circuit of Current Mode Bandgap Voltage Reference” Chinese Patent for Invention, Granted, No. 202111304187.0, Jan. 2023.
+

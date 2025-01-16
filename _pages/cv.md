@@ -29,8 +29,8 @@ redirect_from:
 
 # Scientific Publication
 **Patent**<br />
-	P1. **Chi-Wa U**, Chon-Fai Lee, Cheng-Hou Cheong, Chi-Seng Lam, Man-Kay Law, Rui P. Martins, "A Switched Capacitor Network Bandgap Voltage Reference Circuit and Its Temperature Compensation Method" ***Chinese Patent for Invention***, Application, No. 202410457322.2, 16 Apr. 2024.<br />
-	P2. **Chi-Wa U**, Chon-Fai Lee, Man-Kay Law, Chi-Seng Lam, Rui P. Martins, “Calibration Circuit of Current Mode Bandgap Voltage Reference” ***Chinese Patent for Invention***, Granted, No. 202111304187.0, Jan. 2023.<br />
+  P1. **Chi-Wa U**, Chon-Fai Lee, Cheng-Hou Cheong, Chi-Seng Lam, Man-Kay Law, Rui P. Martins, "A Switched Capacitor Network Bandgap Voltage Reference Circuit and Its Temperature Compensation Method" ***Chinese Patent for Invention***, Application, No. 202410457322.2, 16 Apr. 2024.
+  P2. **Chi-Wa U**, Chon-Fai Lee, Man-Kay Law, Chi-Seng Lam, Rui P. Martins, “Calibration Circuit of Current Mode Bandgap Voltage Reference” ***Chinese Patent for Invention***, Granted, No. 202111304187.0, Jan. 2023.
 **Journal Papers**<br />
 **First Author**<br />
 :   [J1] **Chi-Wa U**, Man-Kay Law, Chi-Seng Lam, Rui P. Martins, “Sub-μW Auto-Calibration Bandgap Voltage Reference with 1σ inaccuracy of ±0.12% within -40 to 120°C”, ***IEEE Journal of Solid-State Circuits***, vol. 59, no. 2, pp. 540-550, Feb. 2024. **[SCI, Q1]**<br />

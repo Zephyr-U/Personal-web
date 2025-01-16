@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 # Education
-  * *Ph.D* in Electrical and Electronics Engineering, *University of Macau, China*	08. 2019 - 05. 2023<br />
-  * *B.Sc* in Electrical and Electronics Engineering, *University of Macau, China*	08. 2015 - 06. 2019<br />
+  * ***Ph.D*** in Electrical and Electronics Engineering, *University of Macau, China*	08. 2019 - 05. 2023<br />
+  * ***B.Sc*** in Electrical and Electronics Engineering, *University of Macau, China*	08. 2015 - 06. 2019<br />
 
 # Professional Experience
   * **Postdoctoral Fellow (Visiting)**  02. 2025 - 07. 2026 (excepted)<br />

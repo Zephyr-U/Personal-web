@@ -28,11 +28,11 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp; *Department of Electrical and Computer Engineering, University of Macau*<br />
 
 # Scientific Publication
-&nbsp;&nbsp;**<span style="font-size: 24px;line-height: 1;">Patent</span>**
+&nbsp;&nbsp;**<span style="font-size: 24px;line-height: 0.8;">Patent</span>**
   1. **Chi-Wa U**, Chon-Fai Lee, Cheng-Hou Cheong, Chi-Seng Lam, Man-Kay Law, Rui P. Martins, "A Switched Capacitor Network Bandgap Voltage Reference Circuit and Its Temperature Compensation Method" ***Chinese Patent for Invention***, Application, No. 202410457322.2, 16 Apr. 2024.
   2. **Chi-Wa U**, Chon-Fai Lee, Man-Kay Law, Chi-Seng Lam, Rui P. Martins, “Calibration Circuit of Current Mode Bandgap Voltage Reference” ***Chinese Patent for Invention***, Granted, No. 202111304187.0, Jan. 2023. <br />
 
-&nbsp;&nbsp;**<span style="font-size: 24px;line-height: 1;">Journal Paperss</span>**
+&nbsp;&nbsp;**<span style="font-size: 24px;line-height: 0.8;">Journal Papers</span>**
   1. **Chi-Wa U**,Zhaoxi Li, Cheng-Hou Cheong, 	Chon-Fai Lee, Chi-Seng Lam, “AI-Enhanced Wide Supply Voltage Bandgap Voltage Reference Circuit With Multi-Objective Optimization for Automotive Applications”, ***IEEE Open Journal of Circuits and Systems***, Accepted **[SCI, Q2]**
   2. **Chi-Wa U**, Man-Kay Law, Chi-Seng Lam, Rui P. Martins, “Sub-μW Auto-Calibration Bandgap Voltage Reference with 1σ inaccuracy of ±0.12% within -40 to 120°C”, ***IEEE Journal of Solid-State Circuits***, vol. 59, no. 2, pp. 540-550, Feb. 2024. **[SCI, Q1]**
   3. **Chi-Wa U**, Cong Liu, Chi-Seng Lam. Rui P. Martins, “An 1V Supply, 740nW, 8.7ppm/℃ Bandgap Voltage Reference Employing Segmented Curvature Compensation,” ***IEEE Transactions on Circuits and Systems I: Regular Papers***, vol. 70, no. 12, pp. 4755-4766, Dec. 2023. **[SCI, Q1]**
@@ -44,7 +44,7 @@ redirect_from:
   9. Tianzheng Yan, **Chi-Wa U**, Man-Kay Law, Chi-Seng Lam, “A -40°C to 180°C, 1.58 ppm/°C, 1.3 µW Bandgap Voltage Reference with Segmented Curvature Compensation,” ***Microelectronics Journal***, vol. 105, pp.104897, Nov. 2020. **[SCI]**
   10. Wen-Ming Zheng, Wen-Liang Zeng, Chi-Wa U, Chi-Seng Lam, Yan Lu, Sai-Weng Sin, Man-Chung Wong, Rui P. Martins, “Analysis, Design and Control of an Integrated Three-Level Buck Converter under DCM Operation,” ***Journal of Circuits, Systems, and Computers***, vol. 29, no. 1, pp. 2050011, Feb. 2019. **[SCI]**
 
-&nbsp;&nbsp;**<span style="font-size: 24px;line-height: 1;">Conference Papers</span>**
+&nbsp;&nbsp;**<span style="font-size: 24px;line-height: 0.8;">Conference Papers</span>**
   1. **Chi-Wa U**, Man-Kay Law, Chi-Seng Lam, Rui P. Martins, “Auto-Calibration Technique for Current-Based Bandgap Voltage Reference,” ***2021 IEEE Asian Solid-State Circuits Conference (A-SSCC)***, Busan, Korea, Republic of, 2021, pp. 1-3. **[Highlighted Paper]** 
   2. **Chi-Wa U**, Wen-Liang Zeng, Chi-Seng Lam “Review and Comparison of Integrated Inductive-Based Hybrid Step-Down Dc-Dc Converter under CCM Operation” ***The 15th annual Asia Pacific Conference on Circuits and Systems (APCCAS)***, Bangkok, Thailand, 11-14 Nov. 2019, pp. 49-52.
   3. **Chi-Wa U**, Chi-Seng Lam, Man-Kay Law, Sai-Weng Sin, Man-Chung Wong, Seng-Pan U, Rui P. Martins, “CCM operation analysis and parameters design of Negative Output Elementary Luo Converter for ripple suppression”, ***The 43rd Annual Conference of the IEEE Industrial Electronics Society (IECON 2017)***, Beijing, China, Oct. 29 – Nov. 01, 2017, pp. 4867 - 4871.

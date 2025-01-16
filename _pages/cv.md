@@ -33,6 +33,7 @@ redirect_from:
   2. **Chi-Wa U**, Chon-Fai Lee, Man-Kay Law, Chi-Seng Lam, Rui P. Martins, “Calibration Circuit of Current Mode Bandgap Voltage Reference” ***Chinese Patent for Invention***, Granted, No. 202111304187.0, Jan. 2023. <br />
 
 &nbsp;&nbsp;**<span style="font-size: 24px;line-height: 1;">Journal Papers</span>**
+aa
   1. **Chi-Wa U**,Zhaoxi Li, Cheng-Hou Cheong, 	Chon-Fai Lee, Chi-Seng Lam, “AI-Enhanced Wide Supply Voltage Bandgap Voltage Reference Circuit With Multi-Objective Optimization for Automotive Applications”, ***IEEE Open Journal of Circuits and Systems***, Accepted **[SCI, Q2]**
   2. **Chi-Wa U**, Man-Kay Law, Chi-Seng Lam, Rui P. Martins, “Sub-μW Auto-Calibration Bandgap Voltage Reference with 1σ inaccuracy of ±0.12% within -40 to 120°C”, ***IEEE Journal of Solid-State Circuits***, vol. 59, no. 2, pp. 540-550, Feb. 2024. **[SCI, Q1]**
   3. **Chi-Wa U**, Cong Liu, Chi-Seng Lam. Rui P. Martins, “An 1V Supply, 740nW, 8.7ppm/℃ Bandgap Voltage Reference Employing Segmented Curvature Compensation,” ***IEEE Transactions on Circuits and Systems I: Regular Papers***, vol. 70, no. 12, pp. 4755-4766, Dec. 2023. **[SCI, Q1]**
